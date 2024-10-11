@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Khine Shun Lae</h1>
 <h3 align="center">A passionate Web Developer.</h3>
 
-- 🌱 I’m currently learning **Php, Laravel**
+- 🌱 I’m currently learning **JavaScript**
+
+- 🔥 My go-tos language is **PHP/Laravel** to build staff.
 
 - 📫 How to reach me **khine.dev.katherine@gmail.com**
 
